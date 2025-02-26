@@ -10,10 +10,11 @@
 
 ### **2️⃣ 安裝步驟**
 1. **下載專案**
+   ```bash
    git clone https://github.com/ninjat6/IEC-62443-2-4-Automation-Tool.git
    cd IEC-62443-2-4-Automation-Tool
 
-2. **(可選）建立虛擬環境**
+3. **(可選）建立虛擬環境**
    ```bash
     python -m venv venv
     source venv/bin/activate  # macOS/Linux
