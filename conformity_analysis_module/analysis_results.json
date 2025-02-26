@@ -1,0 +1,1332 @@
+[
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "This policy is applicable to all personnel, events, and objects related to industrial automation and control system projects provided by the Lab.",
+        "similarity": 0.5132917165756226,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The internal personnel, outsourced service providers, and visitors of the Lab and the project field who are responsible for implementing the project shall abide by this policy.",
+        "similarity": 0.5406997203826904,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.570298433303833,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "This policy is applicable to all personnel, events, and objects related to industrial automation and control system projects provided by the Lab.",
+        "similarity": 0.5003196001052856,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The internal personnel, outsourced service providers, and visitors of the Lab and the project field who are responsible for implementing the project shall abide by this policy.",
+        "similarity": 0.5329557657241821,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5489804744720459,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5608054995536804,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Project personnel, subcontractors, and project-related external units and personnel must follow relevant security management procedures to maintain cyber security policies.",
+        "similarity": 0.5834953784942627,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5537780523300171,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The internal personnel, outsourced service providers, and visitors of the Lab and the project field who are responsible for implementing the project shall abide by this policy.",
+        "similarity": 0.5298068523406982,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5244688987731934,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.52773517370224,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Project personnel, subcontractors, and project-related external units and personnel must follow relevant security management procedures to maintain cyber security policies.",
+        "similarity": 0.5358459949493408,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5166006684303284,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5035030841827393,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.507384181022644,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The internal personnel, outsourced service providers, and visitors of the Lab and the project field who are responsible for implementing the project shall abide by this policy.",
+        "similarity": 0.512024998664856,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "In order to maintain the normal operation of information assets in the project field provided by the Lab, prevent information or information systems from unauthorized access, use, control, leakage, destruction, tampering, destruction or other infringements; and ensure the availability, integrity and confidentiality of their assets, all project team personnel shall work together to achieve the following goals:",
+        "similarity": 0.5271775722503662,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5061662197113037,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The internal personnel, outsourced service providers, and visitors of the Lab and the project field who are responsible for implementing the project shall abide by this policy.",
+        "similarity": 0.5292419195175171,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "In order to maintain the normal operation of information assets in the project field provided by the Lab, prevent information or information systems from unauthorized access, use, control, leakage, destruction, tampering, destruction or other infringements; and ensure the availability, integrity and confidentiality of their assets, all project team personnel shall work together to achieve the following goals:",
+        "similarity": 0.537979245185852,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "Project personnel, subcontractors, and project-related external units and personnel must follow relevant security management procedures to maintain cyber security policies.",
+        "similarity": 0.5106626152992249,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5198251008987427,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5042984485626221,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5143224596977234,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5167632102966309,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5484338998794556,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5563329458236694,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5076054334640503,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5704472064971924,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The scope of the 12 Security Program (SP) requirements in the accordance with IEC 62443-2-4 is as follows:",
+        "similarity": 0.5274888873100281,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "According to the client’s requirements for industrial automation cyber security, establish industrial automation cyber security services for the project field, conduct risk management for the project field, and follow the IEC 62443-2-4 requirements items to implement the spirit of the quality management cycle (Plan-Do-Check-Act cycle, PDCA) to continuously improve the effectiveness of the industrial automation cyber security management system.",
+        "similarity": 0.5908465385437012,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Conduct cyber security education and training in the Lab and project field, and enhance the awareness of cyber security among department members while reinforcing their understanding of responsibilities.",
+        "similarity": 0.5204607248306274,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The implementation of the industrial automation cyber security operation activities in the Lab and the project field must comply with the requirements of laws and regulations.",
+        "similarity": 0.5618380308151245,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Achieving alignment with cyber security policy expectations through stakeholder requirements and issues etc.",
+        "similarity": 0.5015438795089722,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-A-001_工業自動化與控制系統資訊安全政策 Industrial Automation and Control System Cyber Security Policy_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "Personnel responsible for each key business process:",
+        "similarity": 0.5037184953689575,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "Personnel responsible for the activities or items.",
+        "similarity": 0.5372611284255981,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Cyber Security Team shall identify the requirements of relevant laws, regulations and contracts for cyber security pertaining to the cyber services provided by the Lab before holding the management review meeting every year.",
+        "similarity": 0.5006535649299622,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "According to the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\" to set the cyber security goals.",
+        "similarity": 0.5076873302459717,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "In any type of project, cyber security shall be addressed in the requirements specification or contract document.",
+        "similarity": 0.5088136196136475,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5292015075683594,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "According to the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\" to set the cyber security goals.",
+        "similarity": 0.5075540542602539,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5125771760940552,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "Changes to contractual requirements.",
+        "similarity": 0.5089972019195557,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "Personnel responsible for the activities or items.",
+        "similarity": 0.5186686515808105,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "According to the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\" to set the cyber security goals.",
+        "similarity": 0.517623782157898,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.531913161277771,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Cyber Security Organization Process",
+        "similarity": 0.5460342168807983,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Commit to meet relevant cyber security requirements.",
+        "similarity": 0.6049416065216064,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Cyber Security Officer: A special person appointed by the Cyber Security Committee.",
+        "similarity": 0.5410521030426025,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Coordinate the cyber security team and the emergency response team to execute cyber security related operations.",
+        "similarity": 0.5476886034011841,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Responsible for early warning and monitoring of cyber security status, and handling cyber security status and events.",
+        "similarity": 0.5192720890045166,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Formulate relevant specifications for cyber security management.",
+        "similarity": 0.5724242329597473,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Conduct cyber security-related education, training and activities.",
+        "similarity": 0.5831298232078552,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The Cyber Security Team shall identify the requirements of relevant laws, regulations and contracts for cyber security pertaining to the cyber services provided by the Lab before holding the management review meeting every year.",
+        "similarity": 0.5633224248886108,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Responsible for early warning and monitoring of cyber security status and handling of cyber security incidents.。",
+        "similarity": 0.5160974264144897,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Achievement of cyber security objectives.",
+        "similarity": 0.5252009630203247,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "According to the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\" to set the cyber security goals.",
+        "similarity": 0.5713501572608948,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Changes in security requirements.",
+        "similarity": 0.5129722356796265,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Coordinate the required resources based on the needs of the cyber security system.",
+        "similarity": 0.6010810732841492,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Cyber security objectives shall be consistent with the cyber security policy and must be measurable. At the same time, the applicable cyber security requirements and the results of risk assessment and treatment shall be taken into consideration. Cyber security goals and related matters shall be communicated to the Lab’s personnel, outsourced vendors, and cyber security operation related units, and the goals shall be updated regularly or when there are major changes in the organization.",
+        "similarity": 0.5207722187042236,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The operation to achieve cyber security objectives shall be regularly planned and shall include:",
+        "similarity": 0.5043928623199463,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The operation plan for achieving the aforementioned cyber security objectives shall be developed and documented in \"IMI-NCKU-D-003 Cyber Security Management Indicators and Effectiveness Evaluation Form,\" which shall be maintained and updated by the Cyber Security Team.",
+        "similarity": 0.5083523988723755,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "In any type of project, cyber security shall be addressed in the requirements specification or contract document.",
+        "similarity": 0.5635327696800232,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "IMI-NCKU-D-001 Cyber Security Organization Personnel List",
+        "similarity": 0.5302196741104126,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5728532075881958,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-001_資訊安全組織程序書 Cyber Security Organization Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.5900992751121521,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5002481341362,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.5605756044387817,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.5160143971443176,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5186485052108765,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.6474700570106506,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5601750016212463,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "If necessary, personnel shall be sent to participate in external cyber security related training, and the trainees shall go through the registration procedures and attend on time.",
+        "similarity": 0.5084758400917053,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.5515823364257812,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.6268415451049805,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5201987028121948,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5292015075683594,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.6522434949874878,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5940108299255371,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.6245826482772827,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.6832860112190247,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5737794637680054,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5125771760940552,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.5707281827926636,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.6083959341049194,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "In order to promote the implementation of the project and help executing personnel, outsourced vendors, subcontractors, consultants, and representatives to quickly understand the business status of the project field and improve work efficiency, the project principal authorizes the administrative commissioner to explain project operations to the project personnel, and shall cooperate with the asset owner’s policies, procedures, operating standards, and data confidentiality requirements, to conduct relevant training to enable personnel to swiftly adapt and gain competence.",
+        "similarity": 0.5219125151634216,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.5598248243331909,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.577278733253479,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5285319089889526,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.6200283765792847,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.6156982183456421,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.6087241172790527,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.6537442803382874,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5660589933395386,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.6306701898574829,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.6273764967918396,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.6025960445404053,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.6598604917526245,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5622025728225708,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.5199217796325684,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel involved in this project and the project field, including project executives, outsourced vendors, subcontractors, and consultants or representatives, shall undergo the Lab’s security background check (e.g., personnel information, Police Criminal Record Certificate, etc.). In addition to possessing the necessary professional skills and knowledge, they shall also pass IEC 62443 education and training. Job qualifications and responsibilities are detailed in the table below:",
+        "similarity": 0.507322371006012,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5102007389068604,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "If necessary, personnel shall be sent to participate in external cyber security related training, and the trainees shall go through the registration procedures and attend on time.",
+        "similarity": 0.5206420421600342,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.5579167008399963,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.5604424476623535,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel involved in this project and the project field, including project executives, outsourced vendors, subcontractors, and consultants or representatives, shall undergo the Lab’s security background check (e.g., personnel information, Police Criminal Record Certificate, etc.). In addition to possessing the necessary professional skills and knowledge, they shall also pass IEC 62443 education and training. Job qualifications and responsibilities are detailed in the table below:",
+        "similarity": 0.5525088310241699,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5633889436721802,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "If necessary, personnel shall be sent to participate in external cyber security related training, and the trainees shall go through the registration procedures and attend on time.",
+        "similarity": 0.5201817750930786,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.5801190137863159,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.514763355255127,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.615739107131958,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.6230409145355225,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.5866373181343079,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.7681725025177002,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.6113400459289551,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.531913161277771,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "All personnel assigned to the project field shall be fully aware of the project's cyber security policies, commitments, and the responsibilities, policies, and procedures pertaining to the asset owner as well as the requirements specified in IEC 62443-2-4 standard. The personnel mentioned include project implementers, outsourced vendors, subcontractors, consultants, and representatives, as detailed in \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy\".",
+        "similarity": 0.5858361124992371,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "All personnel involved in this project and the project field, including project executives, outsourced vendors, subcontractors, and consultants or representatives, shall undergo the Lab’s security background check (e.g., personnel information, Police Criminal Record Certificate, etc.). In addition to possessing the necessary professional skills and knowledge, they shall also pass IEC 62443 education and training. Job qualifications and responsibilities are detailed in the table below:",
+        "similarity": 0.5174448490142822,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "All personnel assigned to the project, including executing personnel, outsourced vendors, subcontractors, consultants, and representatives, shall comply with the policies and procedures of the asset owner’s various cyber security requirements in the field, such as management of changes (MoC), permit to work (PtW), etc., and shall provide background information and criminal record investigation (such as Police Criminal Record Certificate). After the administrative commissioner confirms that the person meets the requirements for project personnel, they must sign the \"IMI-NCKU-D-005 Confidentiality Agreement for External Suppliers and Personnel\" as the basis.",
+        "similarity": 0.5842528343200684,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The administrative commissioner is responsible for conducting industrial automation and control system cyber security education and training courses every year, in the form of classes, meetings, implementation, etc., and shall document it in the \"IMI-NCKU-D-004 Personnel Data Sheet\".",
+        "similarity": 0.6267197728157043,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "If necessary, personnel shall be sent to participate in external cyber security related training, and the trainees shall go through the registration procedures and attend on time.",
+        "similarity": 0.5951053500175476,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "Personnel shall pass the relevant technology and industrial automation and control system cyber security capability assessment before dispatch, and use the \"IMI-NCKU-D-007 Project Personnel Evaluation Form\" for assessment. The assessment data shall be consistent with the \"IMI-NCKU-D-004 Personnel Data Sheet\" and both forms shall be kept together for inspection.",
+        "similarity": 0.6118334531784058,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "At least one internal or external education and training for industrial automation and control system cyber security shall be conducted every year, and at least one ability assessment shall be conducted every 2 years.",
+        "similarity": 0.6601664423942566,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.621852457523346,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The Lab shall ensure that its services provided comply with the relevant regulations of the asset owner, such as the requirements of IEC 62443-2-4 and the Lab’s internal IACS security requirements.",
+        "similarity": 0.5045357942581177,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5728532075881958,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "The project personnel shall be aware of any changes in the project, and shall apply for changes in accordance with the \"IMI-NCKU-B-003 Change Management Process\", and make changes after the asset owner agrees.",
+        "similarity": 0.5233484506607056,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "The Lab shall confirm with the asset owner whether the provided automation solution complies with the requirements of IEC 62443-2-4.",
+        "similarity": 0.5641030073165894,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "The Lab shall communicate the security perspective of IACS in automation solutions to asset owners and related personnel.",
+        "similarity": 0.5332632064819336,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-002_場域人員管理程序書 Field Personnel Management Process_0630修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "After being authorized by the project principal, the project manager contacts the asset owner to report the change items, change sequence, and personnel training plan, which must be approved by the asset owner. If the asset owner does not approve, it shall be informed of the relevant risks, and the recommendations shall be recorded in the \"IMI-NCKU-D-008 Project Field Change Request Form\".",
+        "similarity": 0.5213315486907959,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The purpose of notification or training is to ensure that the relevant personnel can safely operate the changed equipment, facilities, or procedures, and proficiently handle any potential abnormalities or emergencies that may occur. Therefore, for the personnel affected by the change, including operators, maintenance, contractors, etc., they shall be notified of the relevant items of the modification or given necessary training before the change is official opening, so as to reduce the risks associated with the change. Personnel training shall be conducted according to \"IMI-NCKU-B-002 Field Personnel Management Process\".",
+        "similarity": 0.5133652091026306,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "Monitor change progress, monitor change status, track changes until closure. If there is an item that needs to be tracked, it needs to be decided by an internal meeting; a dedicated person must be assigned to be responsible for the implementation and tracking by the project manager until the end of the tracking event. After the change is official implemented, if it is confirmed as a permanent change, the relevant operation control standard shall be revised and completed within 3 months, and education and training shall be implemented, and records shall be kept for inspection.",
+        "similarity": 0.5210844278335571,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "After submitting a change request, the project manager shall identify the impacted items, perform a risk assessment on the impacts, and develop a change plan (including process, testing, and personnel training). The final decision shall be made by the project principal, who shall then report to the asset owner.",
+        "similarity": 0.5022661089897156,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "After being authorized by the project principal, the project manager contacts the asset owner to report the change items, change sequence, and personnel training plan, which must be approved by the asset owner. If the asset owner does not approve, it shall be informed of the relevant risks, and the recommendations shall be recorded in the \"IMI-NCKU-D-008 Project Field Change Request Form\".",
+        "similarity": 0.5462737083435059,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "The purpose of notification or training is to ensure that the relevant personnel can safely operate the changed equipment, facilities, or procedures, and proficiently handle any potential abnormalities or emergencies that may occur. Therefore, for the personnel affected by the change, including operators, maintenance, contractors, etc., they shall be notified of the relevant items of the modification or given necessary training before the change is official opening, so as to reduce the risks associated with the change. Personnel training shall be conducted according to \"IMI-NCKU-B-002 Field Personnel Management Process\".",
+        "similarity": 0.5002967119216919,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "Monitor change progress, monitor change status, track changes until closure. If there is an item that needs to be tracked, it needs to be decided by an internal meeting; a dedicated person must be assigned to be responsible for the implementation and tracking by the project manager until the end of the tracking event. After the change is official implemented, if it is confirmed as a permanent change, the relevant operation control standard shall be revised and completed within 3 months, and education and training shall be implemented, and records shall be kept for inspection.",
+        "similarity": 0.5092220902442932,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "After the aforementioned operations have been completed, the asset owner shall be formally notified via e-mail or any other appropriates means of communication.",
+        "similarity": 0.625923752784729,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-003_變更管理程序書 Change Management Process_0704修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5287652015686035,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01BR",
+        "requirement_text": "The service provider shall have the capability to ensure that it assigns only service provider personnel to Automation Solution related activities who have been informed of and comply with the responsibilities, policies, and procedures required by this specification.",
+        "snippet": "The outsourcing vendors need to ensure that all parties (including subcontractors) related to outsourced operations shall comply with cyber security laws and regulations.",
+        "similarity": 0.5062326788902283,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.5391535758972168,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Project team: Responsible for proposing appropriate security requirements and formulating the content of contracts related to vendors services, in accordance with the provisions of this process document, and ensuring the inclusion of confidentiality clauses in the contracts.",
+        "similarity": 0.5256273150444031,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The selection of the vendors that provide outsourced service shall comply with the security requirements and procurement methods proposed by the project team.",
+        "similarity": 0.5404151678085327,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5760091543197632,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors shall be responsible for system maintenance, contact windows and telephone inquiry service, and solve system-related matters, and cooperate with the relevant procedures of the Lab to handle abnormalities and notification matters, and provide on-site services if necessary.",
+        "similarity": 0.5180239677429199,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors need to ensure that all parties (including subcontractors) related to outsourced operations shall comply with cyber security laws and regulations.",
+        "similarity": 0.6117380857467651,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendor shall provide maintenance services when a major cyber security threat occurs in the project.",
+        "similarity": 0.5499505996704102,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Outsourced personnel shall be responsible for properly safeguarding system accounts, and system accounts shall not be used by individuals unrelated to the operations.",
+        "similarity": 0.5036985874176025,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The project team of information outsourcing service shall follow the specification of this process and put forward appropriate security requirement. However, if due to the consideration of related factors such as cost, timeliness, characteristics of outsourced services, and limitations of outsourced vendors, the security requirements specified in this process cannot be fully applied, the project team can submit other appropriate security requirements and plans to the project principal for approval.",
+        "similarity": 0.5269883871078491,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.01RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractor or consultant personnel who have been informed of and comply with the specified security responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5292015075683594,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.5032693147659302,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5478713512420654,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors shall be responsible for system maintenance, contact windows and telephone inquiry service, and solve system-related matters, and cooperate with the relevant procedures of the Lab to handle abnormalities and notification matters, and provide on-site services if necessary.",
+        "similarity": 0.5006083250045776,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors need to ensure that all parties (including subcontractors) related to outsourced operations shall comply with cyber security laws and regulations.",
+        "similarity": 0.552431583404541,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendor shall provide maintenance services when a major cyber security threat occurs in the project.",
+        "similarity": 0.5335116386413574,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "Outsourced personnel shall be responsible for properly safeguarding system accounts, and system accounts shall not be used by individuals unrelated to the operations.",
+        "similarity": 0.5096458196640015,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner's security-related responsibilities, policies, and procedures are assigned to Automation Solution activities.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5125771760940552,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.5098806619644165,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5342913269996643,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "If the personnel of the outsourcing vendor need to access the Lab system due to operational requirements, they shall follow the relevant security management regulations, and submit an \"IMI-NCKU-D-011 Change of Field Service Application Form\" on behalf of the Lab personnel.",
+        "similarity": 0.5015503168106079,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "When the maintenance personnel of the vendor enter the project field and use portable computers or storage media, it must be monitored by monitoring equipment or accompanied by the Lab’s personnel throughout the process.",
+        "similarity": 0.5154876112937927,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "Any changes to the services provided by the outsourced vendor shall be communicated to the project principal by the project manager through a signed document. The document shall include relevant risk assessment supporting materials as required. After approval by the project principal, the changes can be implemented. The service changes are as follows:",
+        "similarity": 0.5344063639640808,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.02RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider, subcontractor, or consultant personnel who have been informed of and comply with the asset owner’s Management of Change (MoC) and Permit To Work (PtW) processes are assigned to Automation Solution activities involving devices, workstations, servers, and their connections.",
+        "snippet": "Change of service provider or service personnel.",
+        "similarity": 0.5608349442481995,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5136537551879883,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03BR",
+        "requirement_text": "The service provider shall have the capability to ensure that only service provider personnel who have been informed of and comply with the policies, procedures, and contractual obligations required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "Outsourced personnel shall be responsible for properly safeguarding system accounts, and system accounts shall not be used by individuals unrelated to the operations.",
+        "similarity": 0.5192557573318481,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5227699279785156,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors need to ensure that all parties (including subcontractors) related to outsourced operations shall comply with cyber security laws and regulations.",
+        "similarity": 0.5486128926277161,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The outsourced system data, software or operating system account with the highest authority, and the database account with the highest authority shall be kept by the project principal or project manager of the Lab, and shall not be directly granted to the outsourcing vendors for use.",
+        "similarity": 0.5014224052429199,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "Outsourced personnel shall be responsible for properly safeguarding system accounts, and system accounts shall not be used by individuals unrelated to the operations.",
+        "similarity": 0.5228804349899292,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.03RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have been informed of and comply with the policies and procedures required to protect the confidentiality of the asset owner's data are assigned to Automation Solution activities.",
+        "snippet": "The project team of information outsourcing service shall follow the specification of this process and put forward appropriate security requirement. However, if due to the consideration of related factors such as cost, timeliness, characteristics of outsourced services, and limitations of outsourced vendors, the security requirements specified in this process cannot be fully applied, the project team can submit other appropriate security requirements and plans to the project principal for approval.",
+        "similarity": 0.5066989660263062,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.5027879476547241,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The selection of the vendors that provide outsourced service shall comply with the security requirements and procurement methods proposed by the project team.",
+        "similarity": 0.5126652121543884,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5188838243484497,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "The outsourcing vendors need to ensure that all parties (including subcontractors) related to outsourced operations shall comply with cyber security laws and regulations.",
+        "similarity": 0.585830807685852,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.04RE(1)",
+        "requirement_text": "The service provider shall have the capability to ensure that only subcontractors, consultants, and representatives who have successfully passed security-related background checks, where feasible and to the extent allowed by applicable law, are assigned to Automation Solution activities.",
+        "snippet": "Outsourced personnel shall be responsible for properly safeguarding system accounts, and system accounts shall not be used by individuals unrelated to the operations.",
+        "similarity": 0.5183712244033813,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.5055644512176514,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5722119808197021,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The outsourcing vendor shall provide maintenance services when a major cyber security threat occurs in the project.",
+        "similarity": 0.5251362323760986,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "If the personnel of the outsourcing vendor need to access the Lab system due to operational requirements, they shall follow the relevant security management regulations, and submit an \"IMI-NCKU-D-011 Change of Field Service Application Form\" on behalf of the Lab personnel.",
+        "similarity": 0.5097949504852295,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "The project team of information outsourcing service shall follow the specification of this process and put forward appropriate security requirement. However, if due to the consideration of related factors such as cost, timeliness, characteristics of outsourced services, and limitations of outsourced vendors, the security requirements specified in this process cannot be fully applied, the project team can submit other appropriate security requirements and plans to the project principal for approval.",
+        "similarity": 0.5289866328239441,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "Any changes to the services provided by the outsourced vendor shall be communicated to the project principal by the project manager through a signed document. The document shall include relevant risk assessment supporting materials as required. After approval by the project principal, the changes can be implemented. The service changes are as follows:",
+        "similarity": 0.5139362812042236,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.05BR",
+        "requirement_text": "The service provider shall have the capability to assign a security contact in its organization to the Automation Solution who is responsible and accountable for: 1) Acting as liaison with the asset owner regarding adherence to Part 2-4 requirements. 2) Communicating the service provider’s IACS security perspective to the asset owner. 3) Ensuring tenders align with the asset owner’s Part 2-4 requirements and the service provider’s internal security requirements. 4) Reporting deviations from, or non-conformities with, the asset owner’s Part 2-4 requirements.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.531913161277771,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "To ensure that the National Cheng Kung University Information and Mechatronics Integration Lab (hereinafter referred to as \"the Lab\") and the outsourced vendors for project fields comply with the industrial automation and control system cyber security management specifications for the verification of deliverables and service operations provided prior to or during the execution of outsourcing contracts, this process is hereby established.",
+        "similarity": 0.541907787322998,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The outsourcing vendors and their service personnel shall comply with the \"IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy,\" regulations, and operating procedures of the project field.",
+        "similarity": 0.5368286371231079,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The cyber security requirements of the outsourcing vendor:",
+        "similarity": 0.5029016137123108,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "The project team of information outsourcing service shall follow the specification of this process and put forward appropriate security requirement. However, if due to the consideration of related factors such as cost, timeliness, characteristics of outsourced services, and limitations of outsourced vendors, the security requirements specified in this process cannot be fully applied, the project team can submit other appropriate security requirements and plans to the project principal for approval.",
+        "similarity": 0.5052820444107056,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "IMI-NCKU-A-001 Industrial Automation and Control System Cyber Security Policy",
+        "similarity": 0.5728532075881958,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "Any changes to the services provided by the outsourced vendor shall be communicated to the project principal by the project manager through a signed document. The document shall include relevant risk assessment supporting materials as required. After approval by the project principal, the changes can be implemented. The service changes are as follows:",
+        "similarity": 0.5840239524841309,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.07BR",
+        "requirement_text": "The service provider shall have the capability to notify the asset owner of changes in service provider, subcontractor, or consultant personnel who have access to the Automation Solution.",
+        "snippet": "Change of service provider or service personnel.",
+        "similarity": 0.5574918985366821,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-B-004_委外廠商管理程序書 Outsourced Vendors Management Process_0705修.docx"
+    },
+    {
+        "requirement": "SP.01.06BR",
+        "requirement_text": "The service provider shall have documented minimum IACS cyber security qualifications for security lead positions and the capability to assign security leads to Automation Solutions who meet these qualifications.",
+        "snippet": "軟體開發人員\nSoftware Developer 能力 Ability IEC 62443-2-4 專案管理\nProject Management 專業年資\nExpertise Year 文件管理\nDocument Management 資訊安全管理\nCyber Security Management 資訊安全技術應用\nTechnology Application of Cyber Security 軟體程式開發\nSoftware Program Development 軟體程式安全規劃\nSoftware Program Security Planning",
+        "similarity": 0.5019186735153198,
+        "source_file": "C:/Users/user/Desktop/IEC 62443/IEC 62443 2-4自動化工具/成功大學送稽核版 1/成功大學送稽核版/SP.01\\IMI-NCKU-D-007_專案人員評鑑表 Project Personnel Evaluation Form.xlsx"
+    }
+]

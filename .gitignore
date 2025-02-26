@@ -1,0 +1,15 @@
+# 忽略虛擬環境
+venv/
+
+# 忽略編譯的 Python 檔案
+*.pyc
+__pycache__/
+
+# 忽略 VSCode 設定檔（可選）
+.vscode/
+
+# 忽略模型檔案
+models/
+
+# 忽略暫存檔案
+*.log
